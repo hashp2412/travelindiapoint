@@ -256,7 +256,7 @@ body { overflow-x: hidden; }
 	font-weight: 600;
 	display: inline-block;
 	padding: 18px 40px;
-	margin-top: 30px;
+	margin-top: 120px;
 	transition: all 0.3s ease;
 }
 .tm-banner-link:hover,
@@ -1022,7 +1022,7 @@ hr { border-top: 1px solid #111010; }
 @media screen and (max-width: 420px) {
 	.tm-banner-title { font-size: 20px;	}
 	.tm-banner-subtitle { font-size: 12px; }
-	.tm-banner-link { padding: 5px 10px; }
+	.tm-banner-link { padding: 5px 10px; margin-top: 80px;}
 	.tm-tours-box-1-info-left,
 	.tm-tours-box-1-info-right {
 		float: none;
